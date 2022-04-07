@@ -1,4 +1,4 @@
-# file-organizer and picture processing  
+# File organizer and picture processing  
 
 This project is about automating a managing process  
 
